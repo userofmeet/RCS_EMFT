@@ -99,7 +99,8 @@ plt.tight_layout()
 plt.show()
 ```
 # SIMULATION RESULTS
-![Figure_1](https://github.com/user-attachments/assets/69e4019e-78b2-474a-baa0-e02e490b0bfb)
+![Figure_1](https://github.com/user-attachments/assets/09244164-d1ea-4c0b-b84b-8dd1639a8a03)
+
 
 
 
